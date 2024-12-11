@@ -68,8 +68,8 @@ Bu rehber, elinizde bulunan 4 sunucudan birini operatör sunucusu olarak kullana
 1. **GitHub’dan Dosyaları İndirin:**  
    Operatör sunucunuza SSH ile bağlanın ve:
    ```bash
-   wget https://raw.githubusercontent.com/kullanici/humanode/main/subnodes.env
-   wget https://raw.githubusercontent.com/kullanici/humanode/main/deploy_subnodes.sh
+   wget https://raw.githubusercontent.com/halilunay/humanode/main/subnodes.env
+   wget https://raw.githubusercontent.com/halilunay/humanode/main/deploy_subnodes.sh
    chmod +x deploy_subnodes.sh
    ```
 
