@@ -47,7 +47,7 @@ OPERATOR_CHAT_ID=$OPERATOR_CHAT_ID
 NODE_NAME=$NODE_NAME
 EOF
 
-wget -O /root/check_all.py https://raw.githubusercontent.com/halilunay/humanode/refs/heads/main/check_all.py
+wget -O /root/check_all.py https://raw.githubusercontent.com/KENDI_GITHUB_KULLANICI_ADIN/Humanode/main/check_all.py
 chmod +x /root/check_all.py
 
 cat <<EOF >/etc/systemd/system/check_all.service
